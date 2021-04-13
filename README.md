@@ -1,6 +1,6 @@
-### Casey Warren
-## Full Stack Software Developer
-(https://github-readme-stats.vercel.app/api?username=caseywar)](https://github.com/anuraghazra/github-readme-stats)
+## Casey Warren
+### Full Stack Software Developer
+![caseywar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseywar&hide=contribs,prs)
 
 <!--
 **caseywar/caseywar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
