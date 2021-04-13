@@ -1,7 +1,4 @@
-<p align="center">
 ## Casey Warren
-</p>
-
 ### Full Stack Software Developer
 ![caseywar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseywar&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caseywar)](https://github.com/caseywar/github-readme-stats)
