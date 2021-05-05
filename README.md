@@ -2,7 +2,7 @@
 ### ▪️▪️ Full Stack Software Developer ▪️▪️
 
 ![caseywar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseywar&show_icons=true&theme=merko)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseywar&theme=tokyonight&show_icons=true&layout=compact" alt="casey's Language Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseywar&theme=tokyonight&show_icons=true&layout=compact" alt="casey's Language Stats" />
 
 
 
