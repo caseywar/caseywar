@@ -4,7 +4,7 @@
 <p align='center'> Attention to detail is what makes high quality things, high quality. I strive to do the same in all things I create. I'm lucky coding is a fabulous way for me to satisfy that need. <p>
   
   
-<p align='center'> <p>
+<p align='center'>  <p>
 
 
 ![caseywar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseywar&show_icons=true&theme=merko)
