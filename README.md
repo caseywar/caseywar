@@ -1,6 +1,9 @@
 ## 🟡 Casey Warren ⚫️
 ### ▪️▪️ Full Stack Software Developer ▪️▪️
 
+Attention to detail is what makes high quality things, high quality. I strive to do the same in all things I create. I'm lucky coding is a fabulous way for me to satisfy that need. 
+
+
 ![caseywar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseywar&show_icons=true&theme=merko)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseywar&theme=merko&show_icons=true&layout=compact" alt="casey's Language Stats" />
 
