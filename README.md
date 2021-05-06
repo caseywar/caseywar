@@ -10,8 +10,8 @@
 ![caseywar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseywar&show_icons=true&theme=merko)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseywar&theme=merko&show_icons=true&layout=compact" alt="casey's Language Stats" />
 
-##Contact Me!
-👥 LinkedIn: https://www.linkedin.com/in/casey-maynah-warren/
+## <p align='left'>Contact Me!<p>
+<p>👥 LinkedIn: https://www.linkedin.com/in/casey-maynah-warren/ <p>
 
 
 <!--
