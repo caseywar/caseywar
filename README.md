@@ -1,7 +1,7 @@
 ## <p align='center'> 🟡 Casey Warren ⚫️ <p>
 ### <p align='center'> ▪️▪️ Full Stack Software Developer ▪️▪️ <p>
 
-<p align='center'> Attention to detail is what makes high quality things, *high quality*. I strive to do the same in all things I create. I'm lucky coding is a fabulous way for me to satisfy that need. <p>
+<p align='center'> Attention to detail is what makes high quality things, <i>high quality</i>. I strive to do the same in all things I create. I'm lucky coding is a fabulous way for me to satisfy that need. <p>
   
   
 <p align='center'>  <p>
