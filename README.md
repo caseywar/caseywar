@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseywar&theme=merko&show_icons=true&layout=compact" alt="casey's Language Stats" />
 
 ## <p align='left'>Contact Me!<p>
-<p>👥 LinkedIn: https://www.linkedin.com/in/casey-maynah-warren/ <p>
+<p>👥  LinkedIn: https://www.linkedin.com/in/casey-maynah-warren/ <p>
 
 
 <!--
