@@ -7,8 +7,8 @@
 <p align='center'>  <p>
 
 
-![caseywar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseywar&show_icons=true&theme=dracula)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseywar&theme=dracula&show_icons=true&layout=compact" alt="casey's Language Stats" />
+![caseywar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseywar&show_icons=true&theme=react)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseywar&theme=react&show_icons=true&layout=compact" alt="casey's Language Stats" />
 
 ## <p align='left'>Contact Me!<p>
 <p>👥  LinkedIn: https://www.linkedin.com/in/casey-maynah-warren/ <p>
