@@ -5,11 +5,11 @@
   
   ```diff
   !Languages                   ! Tools                  ! Front End                  ! Back End                  ! Testing
-  # HTML                        Git                     React                       Node.js                    TDD
-  # JavaScript                 # Git Hub                # Redux                      # Express                   # Jest
-  # SQL                        # VS Code                                             # PostgreSQL                # Q Unit
+    HTML                       # Git                    # React                      # Node.js                   # TDD
+    JavaScript                 # Git Hub                # Redux                      # Express                   # Jest
+    SQL                        # VS Code                                             # PostgreSQL                # Q Unit
                                # Heroku                                              # Superagent                #Supertest
-  #                             # Netlify                                             # Rest APIs
+                               # Netlify                                             # Rest APIs
                                # pgAdmin
                                # Postman
                                # Zoom
