@@ -8,7 +8,7 @@
     HTML                   # Git                   # React                   # Node.js                   # TDD
     JavaScript             # Git Hub               # Redux                   # Express                   # Jest
     SQL                    # VS Code                                         # PostgreSQL                # Q Unit
-                           # Heroku                                          # Superagent                #Supertest
+                           # Heroku                                          # Superagent                # Supertest
                            # Netlify                                         # Rest APIs
                            # pgAdmin
                            # Postman
