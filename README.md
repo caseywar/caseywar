@@ -9,7 +9,7 @@
   # JavaScript                 # Git Hub                # Redux                      # Express                   # Jest
   # SQL                        # VS Code                                             # PostgreSQL                # Q Unit
                                # Heroku                                              # Superagent                #Supertest
-                               # Netlify                                             # Rest APIs
+  #                             # Netlify                                             # Rest APIs
                                # pgAdmin
                                # Postman
                                # Zoom
