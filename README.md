@@ -1,5 +1,5 @@
 ![Screen Shot 2021-05-11 at 2 25 39 PM](https://user-images.githubusercontent.com/74938966/117866496-34ab1380-b265-11eb-87e7-0074c00cdaa0.png)
-### <p align='center'> ✼✽ Full Stack Software Developer ✽✼ <p>
+### <p align='center'> ✼✽ Full Stack Developer ✽✼ <p>
 
 <p align='center'> Attention to detail is what makes high quality things, <i>high quality</i>. I strive to do the same in all things I create. <br>I'm lucky coding is a fabulous way for me to satisfy that need. <p>
   
