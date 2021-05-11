@@ -4,13 +4,13 @@
 <p align='center'> Attention to detail is what makes high quality things, <i>high quality</i>. I strive to do the same in all things I create. <br>I'm lucky coding is a fabulous way for me to satisfy that need. <p>
   
   ```diff
-! Languages                              !hey
+! Languages                              hey
 # HTML 5
 # JavaScript
 # SQL
 ! Tools 
 # Git
-# Git Hub
+# Git Hub                                  !hey
 # VS Code
 # Heroku
 # Netlify
