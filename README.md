@@ -4,10 +4,17 @@
 <p align='center'> Attention to detail is what makes high quality things, <i>high quality</i>. I strive to do the same in all things I create. <br>I'm lucky coding is a fabulous way for me to satisfy that need. <p>
   
   ```diff
+  
       ! Languages            
  
 ```
-  
+  ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
   
 <p align='center'>  <p>
 
