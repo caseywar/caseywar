@@ -8,7 +8,7 @@
 + text in green
 ! text in orange
 # text in gray
-@@ Languages @@
+@ Languages 
 # HTML 5
 # JavaScript
 # SQL
